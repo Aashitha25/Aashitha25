@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, Im Aashitha 👋
+
+- 🎓 Pursuing  B.E in CSE
+- 🌱 Learning Java, Spring Boot and React
+- 📫 Reach me at aashithanaik25@gmail.com
+- 🔗 LinkedIn www.linkedin.com/in/aashitha-naik
 
 <!--
 **Aashitha25/Aashitha25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
