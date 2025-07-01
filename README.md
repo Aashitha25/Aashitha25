@@ -1,7 +1,7 @@
 ## Hi, Im Aashitha 👋
 
-- 🎓 Pursuing  B.E in CSE
-- 🌱 Learning Java, Spring Boot and React
+- 🎓 B.E in CSE
+- 🌱 Learning Python,Data Analyst
 - 📫 Reach me at aashithanaik25@gmail.com
 - 🔗 LinkedIn www.linkedin.com/in/aashitha-naik
 
